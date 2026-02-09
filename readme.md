@@ -177,13 +177,22 @@ Perfect for:
 
 <div align="center">
 
-## 📲 Buy Now
+## 🚀 Get in Touch
 
-### WhatsApp  
-📱 **+201286016083**
+<a href="https://wa.me/201286016083" target="_blank">
+  <img src="https://img.shields.io/badge/WhatsApp-Chat%20Now-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+</a>
 
-### YouTube  
-▶ https://youtube.com/vanishnow
+<br><br>
+
+<a href="https://youtube.com/vanishnow" target="_blank">
+  <img src="https://img.shields.io/badge/YouTube-Visit%20Channel-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
+</a>
+
+<br><br>
+
+📩 **Direct Contact:**  
+<strong>+20 128 601 6083</strong>
 
 </div>
 
@@ -191,15 +200,18 @@ Perfect for:
 
 # ⚠ Disclaimer
 
-This software is built to automate personal tasks and improve productivity.  
-Users are fully responsible for how they use it in accordance with Prenotami platform rules.
+This software is created for personal automation and productivity enhancement only.  
+Users are fully responsible for using it in compliance with the rules and policies of the **Prenotami platform**.
 
 ---
 
 <div align="center">
 
-### ⭐ If you like this project idea, feel free to contact me anytime!
+### ⭐ Interested in this project?
+
+Feel free to contact me anytime for purchase, customization, or collaboration.
 
 **Automate Smart – Book Faster – Save Time**
 
 </div>
+
