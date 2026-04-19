@@ -185,7 +185,7 @@ Perfect for:
 
 <br><br>
 
-<a href="https://youtube.com/vanishnow" target="_blank">
+<a href="https://youtu.be/cB4Zncqfqe8?si=cz1TPd0yadgJJM8N"_blank">
   <img src="https://img.shields.io/badge/YouTube-Visit%20Channel-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
 </a>
 
