@@ -7,7 +7,9 @@
 <p>
 <img src="https://img.shields.io/badge/Status-Enterprise Ready-success?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Version-2.5.0-blue?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/License-Private-red?style=for-the-badge"/>
+<a href="https://wa.me/201286016083" target="_blank">
+  <img src="https://img.shields.io/badge/License-Private-red?style=for-the-badge"/>
+</a>
 </p>
 
 ---
@@ -185,7 +187,7 @@ Perfect for:
 
 <br><br>
 
-<a href="https://youtu.be/cB4Zncqfqe8?si=cz1TPd0yadgJJM8N"_blank">
+<a href="https://youtu.be/cB4Zncqfqe8?si=cz1TPd0yadgJJM8N" target="_blank">
   <img src="https://img.shields.io/badge/YouTube-Visit%20Channel-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
 </a>
 
@@ -214,4 +216,3 @@ Feel free to contact me anytime for purchase, customization, or collaboration.
 **Automate Smart – Book Faster – Save Time**
 
 </div>
-
