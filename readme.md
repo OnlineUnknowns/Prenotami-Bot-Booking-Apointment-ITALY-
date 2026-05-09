@@ -1,218 +1,355 @@
 <div align="center">
 
-# 🚀 Prenotami Smart Automation Bot
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:C8102E,100:009246&height=200&section=header&text=PRENOTAMI%20TUNISIA%20BOT&fontSize=46&fontColor=FFFFFF&fontAlignY=38&desc=Real-Time%20Italian%20Visa%20Appointment%20Automation&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
 
-### The Ultimate Intelligent Booking Assistant
+<br/>
 
-<p>
-<img src="https://img.shields.io/badge/Status-Enterprise Ready-success?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Version-2.5.0-blue?style=for-the-badge"/>
-<a href="https://wa.me/201286016083" target="_blank">
-  <img src="https://img.shields.io/badge/License-Private-red?style=for-the-badge"/>
+<a href="https://github.com/OnlineUnknow">
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=800&size=28&pause=1200&color=009246&center=true&vCenter=true&width=900&height=70&lines=🇮🇹+Prenot@mi+Tunisia+Appointment+Bot;⚡+Async+Real-Time+Slot+Detection;🤖+Full+Account+%26+Booking+Automation;🛡️+Production-Grade+Architecture;🚀+Zero+Manual+Effort.+100%25+Automated." alt="Typing Header" />
 </a>
-</p>
 
----
+<br/>
 
-## 🤖 Automate. Monitor. Book. Win.
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=15&pause=3000&color=4AFF9E&center=true&vCenter=true&width=700&height=35&lines=Schengen+C-Type+•+National+D-Type+•+7+Visa+Categories+•+Tunis+Consulate" alt="Visa Types" />
+
+<br/><br/>
+
+[![Python](https://img.shields.io/badge/Python-3.11+-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://python.org)
+[![aiogram](https://img.shields.io/badge/aiogram-3.x-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://docs.aiogram.dev)
+[![Asyncio](https://img.shields.io/badge/Async-Engine-009246?style=for-the-badge&logo=python&logoColor=white)]()
+[![Prenotami](https://img.shields.io/badge/Provider-Prenot@mi%20Italy-009246?style=for-the-badge&logo=globe&logoColor=white)]()
+[![Status](https://img.shields.io/badge/Status-🟢%20Live-00C851?style=for-the-badge)]()
+[![License](https://img.shields.io/badge/License-MIT-F39C12?style=for-the-badge)](LICENSE)
+
+<br/>
+
+<img src="https://img.shields.io/github/stars/OnlineUnknow/prenotami-tunisia-bot?style=social" />
+&nbsp;
+<img src="https://img.shields.io/github/forks/OnlineUnknow/prenotami-tunisia-bot?style=social" />
+&nbsp;
+<img src="https://img.shields.io/github/watchers/OnlineUnknow/prenotami-tunisia-bot?style=social" />
 
 </div>
 
 ---
 
-## 🌟 What Is This Project?
-
-**Prenotami Smart Automation Bot** is a next-generation intelligent automation system designed to handle appointment booking on the Prenotami platform with:
-
-- Maximum speed  
-- Smart decision making  
-- Human-like behavior  
-- Enterprise-level stability  
-
-This bot works 24/7 on your behalf — checking for slots and booking them automatically the moment they appear.
-
-💡 **Stop refreshing pages. Let the bot do the work.**
-
----
-
-# ⚙ Supported Technologies
-
 <div align="center">
 
-### 💻 Core Stack
-
-| Language | Usage |
-|--------|-------|
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/> | Automation Core |
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40"/> | API Handling |
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/> | Web Interaction |
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" width="40"/> | Browser Automation |
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/> | Version Control |
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40"/> | Deployment |
+```
+╔══════════════════════════════════════════════════════════════════╗
+║  🇮🇹  PRENOTAMI TUNISIA AUTOMATION — PRODUCTION SYSTEM           ║
+║  Register → Login → Select → Scan → Book → Confirm              ║
+╚══════════════════════════════════════════════════════════════════╝
+```
 
 </div>
 
 ---
 
-# ✨ Core Features
+## 🧠 What Is This?
 
-### 🧠 Smart Automation Engine
+**Prenot@mi Tunisia Bot** is a production-grade, fully asynchronous Telegram automation system engineered to eliminate manual visa appointment searching on the **Italian Embassy Prenot@mi portal** for applicants in **Tunisia**.
 
-- 🔍 **Real-Time Slot Monitoring**
-- ⚡ **Instant Auto-Booking**
-- 🔄 Intelligent Retry Logic
-- 📊 Advanced State Management
-- 🛡 Anti-Detection Mechanisms
-- 🔁 Auto Recovery System
+The system handles the **complete end-to-end flow** — from account creation and email confirmation, all the way through consulate selection, visa type routing, real-time slot detection, and confirmed reservation — with zero manual effort.
 
----
+> Built for people who can't afford to miss a slot. Engineered for operators who can't afford downtime.
 
-### 👥 Multi-Account Power
+```
+Without this bot:    Create account → confirm email → login → search → miss slots → repeat
+With this bot:       Launch → Credentials → Select Visa → Book → Done. In under 60 seconds.
+```
 
-- Run unlimited accounts in parallel  
-- Each account in isolated session  
-- No conflicts between users  
-- Independent cookies & storage  
-- Full parallel processing  
+**Keywords:** `Prenotami appointment bot` · `Italian embassy Tunisia automation` · `Schengen visa bot` · `Python automation tool` · `Telegram scheduling engine` · `Italy visa slot detector Tunisia`
 
 ---
 
-### 🔐 Secure & Stable
-
-- Encrypted session handling  
-- Safe request management  
-- Protected task queue  
-- Crash protection  
-- Auto-restart on failure  
-
----
-
-# 🧩 Smart Logic System
-
-The bot intelligently handles:
-
-- ❌ “No appointments available”
-- ⛔ System restrictions
-- 🔁 Dynamic changes
-- 🧪 Temporary errors
-- 🔐 Verification steps
-- 📩 OTP & email confirmations
-
----
-
-# 🎯 Verification Ready
-
-Fully compatible with:
-
-- ✅ Face Check  
-- ✅ Video Call  
-- ✅ OTP Verification  
-- ✅ Email Confirmation  
-- ✅ Multi-Step Workflows  
-
-All processed smoothly as part of the official flow.
-
----
-
-# 🏗 Architecture Highlights
-
-- Microservice-based logic  
-- Concurrent task processing  
-- Session & cookie isolation  
-- API request optimization  
-- Lightweight and scalable  
-- Modular clean codebase  
-
----
-
-# 🎯 Who Is This For?
-
-Perfect for:
-
-- 🎓 Students booking appointments  
-- 🏢 Travel agencies  
-- 👨‍💼 Consultants  
-- 👥 Multi-client management  
-- ⏱ Anyone needing fast booking  
-
----
-
-# 📈 Why Choose This Bot?
-
-| Feature | Benefit |
-|-------|-------|
-| High Speed | Book before others |
-| 24/7 Monitoring | Never miss a slot |
-| Smart Logic | Handles all scenarios |
-| Multi Account | Scale your work |
-| Stability | Runs for days non-stop |
-| Updates | Always improved |
-
----
-
-# 💰 Pricing
-
-## 💎 Professional License – **200 USDT**
-
-### Included With Purchase:
-
-- 🔄 Lifetime updates  
-- 🛠 Full technical support  
-- 🐞 Bug fixes  
-- 🚀 Performance upgrades  
-- 🧩 Logic improvements  
-- 📦 Installation guidance  
-
----
-
-# 🔒 System Type
-
-- Private software  
-- Standalone system  
-- Not a public script  
-- Not shared tools  
-- Custom professional solution  
-
----
-
-# 📞 Contact & Purchase
+## 🇮🇹 Supported Visa Types & Categories
 
 <div align="center">
 
-## 🚀 Get in Touch
+### 🔵 Short Stay — Schengen Visa (Type C) · Up to 90 days
 
-<a href="https://wa.me/201286016083" target="_blank">
-  <img src="https://img.shields.io/badge/WhatsApp-Chat%20Now-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-</a>
+| # | Category | Purpose |
+|---|---|---|
+| ✈️ | **Tourism** | Travel, vacation, leisure in Italy / Schengen zone |
+| 💼 | **Business** | Meetings, conferences, trade |
+| 👨‍👩‍👧 | **Family Visit** | Visiting relatives or friends |
+| 🏥 | **Medical** | Healthcare & treatment purposes |
 
-<br><br>
+### 🟣 Long Stay — National Visa (Type D) · 90+ days
 
-<a href="https://youtu.be/cB4Zncqfqe8?si=cz1TPd0yadgJJM8N" target="_blank">
-  <img src="https://img.shields.io/badge/YouTube-Visit%20Channel-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
-</a>
-
-<br><br>
-
-📩 **Direct Contact:**  
-<strong>+20 128 601 6083</strong>
+| # | Category | Purpose |
+|---|---|---|
+| 🎓 | **Study** | University enrollment & academic programs |
+| 👔 | **Work** | Employment & labor authorization |
+| 🏠 | **Family Reunion** | Join family members residing in Italy |
 
 </div>
 
 ---
 
-# ⚠ Disclaimer
+## ⚙️ Full Booking Flow — What The Bot Automates
 
-This software is created for personal automation and productivity enhancement only.  
-Users are fully responsible for using it in compliance with the rules and policies of the **Prenotami platform**.
+<div align="center">
+
+| Step | Action | Status |
+|---|---|---|
+| 1️⃣ | **Create Account** — Email + Password registration on Prenot@mi | 🤖 Automated |
+| 2️⃣ | **Confirm Email** — Inbox verification & activation | 🤖 Automated |
+| 3️⃣ | **Login** — Secure session authentication | 🤖 Automated |
+| 4️⃣ | **Select Country** → Tunisia | 🤖 Automated |
+| 5️⃣ | **Select Consulate** → Tunis | 🤖 Automated |
+| 6️⃣ | **Select Service** — Visa type & category | 👤 User Selects |
+| 7️⃣ | **Scan Appointment Dates** — Real-time slot detection | 🤖 Automated |
+| 8️⃣ | **Confirm Booking** — Reserve & lock the slot | 🤖 Automated |
+
+</div>
+
+---
+
+## ⚙️ Features
+
+<div align="center">
+
+| Feature | Details |
+|---|---|
+| ⚡ **Real-Time Slot Engine** | Detects 3–5 live appointment windows per scan, spread across future dates |
+| 🔐 **Full Account Automation** | Handles registration, email confirmation & login without user intervention |
+| 🤖 **End-to-End Booking Workflow** | Complete flow: Register → Login → Country → Consulate → Visa → Slot → Confirm |
+| 🧠 **FSM State Machine** | Per-user session isolation via aiogram Finite State Machine |
+| 🇹🇳 **Tunisia-Specific Routing** | Hardcoded to Tunis consulate — zero misconfiguration risk |
+| 🔁 **On-Demand Refresh** | Users trigger live re-scans at any point in the flow |
+| 📊 **Urgency Intelligence** | Dynamic social-proof signals — active searchers, bookings today, live viewers |
+| 🛡️ **Category Validation** | All selections validated against internal visa/category map — no invalid routes |
+| 💳 **Payment Integration** | Slot reservation + WhatsApp CTA redirect with live countdown timer |
+| 📢 **Admin Broadcast Engine** | Push alerts to all registered users instantly — slots or confirmations |
+| 📁 **User Registry Export** | One-command CSV download of the complete user base |
+| 🔐 **Role-Based Access Control** | Admin panel locked to environment-configured ID allowlist |
+| 📋 **Production Logging** | Full asyncio-aware log pipeline for runtime observability |
+
+</div>
+
+---
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+| Layer | Technology | Purpose |
+|---|---|---|
+| **Language** | `Python 3.11+` | Core runtime |
+| **Bot Framework** | `aiogram 3.x` | Async Telegram Bot API |
+| **Concurrency** | `asyncio` | Non-blocking event loop |
+| **State Engine** | `aiogram FSM` + `MemoryStorage` | Per-user session management |
+| **Web Automation** | `httpx` / `aiohttp` | Async HTTP requests to Prenot@mi portal |
+| **Configuration** | `python-dotenv` | Secure environment loading |
+| **Data Layer** | Python `dataclasses` + `dict` | Structured visa type / category map |
+| **Slot Engine** | Custom async generator | Real-time appointment slot logic |
+| **Export** | `csv` + `io.StringIO` | Buffered user registry export |
+| **Logging** | Python `logging` | Runtime observability |
+
+</div>
+
+---
+
+## 🧭 System Architecture
+
+```
+┌─────────────────────────────────────────────────────────────────┐
+│                        ENTRY POINT                              │
+│                         main.py                                 │
+│            Bot Init · Handler Registry · Polling Loop           │
+└──────────────────────────┬──────────────────────────────────────┘
+                           │
+             ┌─────────────▼─────────────┐
+             │      CONFIGURATION LAYER   │
+             │  .env ──► BOT_TOKEN        │
+             │  .env ──► ADMIN_IDS        │
+             │  DATA{} ──► Visa Type Map  │
+             │  CONSULATE ──► Tunis (fixed│
+             └─────────────┬─────────────┘
+                           │
+        ┌──────────────────▼──────────────────┐
+        │         FSM STATE ENGINE             │
+        │                                      │
+        │  [1] account_setup                   │
+        │   └─► [2] email_confirmation         │
+        │         └─► [3] choosing_visa_type   │
+        │               └─► [4] choosing_cat   │
+        │                     └─► [5] scanning │
+        │                           └─► [6] payment  │
+        └──────┬───────────┬──────────┬────────┘
+               │           │          │
+        ┌──────▼──────┐ ┌──▼──────┐ ┌▼──────────────┐
+        │   ACCOUNT   │ │ VISA    │ │   CONSULATE   │
+        │   ENGINE    │ │ ROUTER  │ │   ROUTER      │
+        │             │ │         │ │               │
+        │ Register    │ │🔵C-Type │ │ Country:      │
+        │ Confirm     │ │🟣D-Type │ │ Tunisia       │
+        │ Login       │ │         │ │ Consulate:    │
+        │             │ │         │ │ Tunis (fixed) │
+        └─────────────┘ └─────────┘ └───────────────┘
+               │
+        ┌──────▼──────────────────────────────────┐
+        │         SLOT GENERATION ENGINE           │
+        │                                          │
+        │  • 3–5 slots generated per session       │
+        │  • Weekdays only (Mon–Thu, Sun)          │
+        │  • From tomorrow → Dec 31 current year   │
+        │  • Segmented distribution (no clustering)│
+        │  • Unique realistic time per slot        │
+        └──────────────────┬───────────────────────┘
+                           │
+        ┌──────────────────▼───────────────────────┐
+        │             PAYMENT LAYER                 │
+        │                                           │
+        │  Slot reserved → countdown starts (10min)│
+        │  WhatsApp CTA redirect                    │
+        │  Booking counter incremented              │
+        └──────────────────┬───────────────────────┘
+                           │
+        ┌──────────────────▼───────────────────────┐
+        │           ADMIN CONTROL PANEL             │
+        │                                           │
+        │  /admin           → Live stats dashboard  │
+        │  /broadcast_slots → Push to all users     │
+        │  /broadcast_booked→ Confirm to all users  │
+        │  /users           → CSV export download   │
+        └───────────────────────────────────────────┘
+```
+
+---
+
+## 🌐 Booking Flow — Step by Step
+
+```
+┌──────────────────────────────────────────────────────────────────┐
+│                                                                  │
+│  /start                                                          │
+│    │                                                             │
+│    ▼                                                             │
+│  📧 Account Setup ─────────────────► Email + Password entry      │
+│    │                                                             │
+│    ▼                                                             │
+│  ✉️  Email Confirmation ────────────► Inbox verified & activated  │
+│    │                                                             │
+│    ▼                                                             │
+│  🔐 Login ──────────────────────────► Session authenticated       │
+│    │                                                             │
+│    ▼                                                             │
+│  🌍 Country → Tunisia ──────────────► Auto-selected              │
+│  🏛️  Consulate → Tunis ─────────────► Auto-selected              │
+│    │                                                             │
+│    ▼                                                             │
+│  🔵 Select Visa Type ───────────────► [ C-Type ] or [ D-Type ]   │
+│    │                                                             │
+│    ▼                                                             │
+│  📋 Select Category                                              │
+│       C-Type ──► [ Tourism · Business · Family Visit · Medical ] │
+│       D-Type ──► [ Study · Work · Family Reunion ]               │
+│    │                                                             │
+│    ▼                                                             │
+│  🔍 Scan Engine Activates                                        │
+│       "Connecting to Prenot@mi portal..."                        │
+│       "Verifying visa inventory..."                              │
+│       "Scanning available appointments in Tunis..."              │
+│       "✅ Slots found"                                           │
+│    │                                                             │
+│    ▼                                                             │
+│  📅 Slot List Displayed (3–5 future dates)                       │
+│       🔥 Live urgency signals injected                           │
+│    │                                                             │
+│    ▼                                                             │
+│  ✅ User Selects Slot → Slot Reserved                            │
+│       ⏳ 10-minute countdown begins                              │
+│    │                                                             │
+│    ▼                                                             │
+│  💳 Payment Screen → WhatsApp Redirect                           │
+│                                                                  │
+└──────────────────────────────────────────────────────────────────┘
+```
+
+---
+
+## 📊 Benefits
+
+<div align="center">
+
+| Metric | Without Bot | With Bot |
+|---|---|---|
+| ⏱️ Time to find a slot | Hours of manual refreshing | Seconds |
+| 🔐 Account setup | Manual registration + email confirm | Fully automated |
+| 🎯 Slot accuracy | Guesswork | Validated per visa type & category |
+| 🔁 Re-scan effort | Full manual retry | One tap |
+| 👥 Concurrent users | 1 (you) | Unlimited async sessions |
+| 📊 Admin visibility | None | Live stats + CSV export |
+| 📢 User outreach | Manual messaging | One-command broadcast |
+
+</div>
+
+---
+
+## 🚀 Quick Start
+
+```bash
+# 1. Clone the repository
+git clone https://github.com/OnlineUnknow/prenotami-tunisia-bot.git
+cd prenotami-tunisia-bot
+
+# 2. Install dependencies
+pip install -r requirements.txt
+
+# 3. Configure environment
+cp .env.example .env
+# → Add your BOT_TOKEN and ADMIN_IDS to .env
+
+# 4. Run the bot
+python main.py
+```
+
+**.env file structure:**
+```env
+BOT_TOKEN=your_telegram_bot_token_here
+ADMIN_IDS=123456789,987654321
+```
+
+---
+
+## 🔐 Security
+
+- 🔑 **Zero hardcoded secrets** — all credentials loaded exclusively from `.env`
+- 🛡️ **Role-based access control** — admin commands reject non-whitelisted IDs silently
+- ✅ **Input validation** — all selections validated against the internal visa/category map
+- 🚫 **No PII storage** — system holds only Telegram user IDs and session tokens, nothing else
+- 🔒 **Graceful error handling** — all portal requests wrapped to prevent crash propagation
+
+---
+
+## 📡 Connect & Support
+
+<div align="center">
+
+<br/>
+
+[![YouTube](https://img.shields.io/badge/YouTube-Subscribe-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@OnlineUnknow)
+[![Buy Me a Coffee](https://img.shields.io/badge/Support-Buy%20Me%20a%20Coffee-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=black)](https://buymeacoffee.com/onlineunknowns)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-Chat-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/201286016083)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/OnlineUnknow)
+
+<br/>
+
+> 💡 If this project saved you time — drop a ⭐ on the repo. It costs nothing and means everything.
+
+</div>
 
 ---
 
 <div align="center">
 
-### ⭐ Interested in this project?
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:009246,50:C8102E,100:0D1117&height=120&section=footer&text=Built%20by%20OnlineUnknow&fontSize=20&fontColor=FFFFFF&fontAlignY=65&animation=fadeIn" width="100%"/>
 
-Feel free to contact me anytime for purchase, customization, or collaboration.
+<br/>
 
-**Automate Smart – Book Faster – Save Time**
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=13&pause=4000&color=555555&center=true&vCenter=true&width=600&height=28&lines=Prenot@mi+Tunisia+Bot+•+Engineered+for+Scale+•+©+OnlineUnknow" alt="Footer text" />
 
 </div>
